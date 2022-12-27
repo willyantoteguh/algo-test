@@ -1,0 +1,30 @@
+name: algo_pic
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  get_cli: ^1.8.1
+  get: 4.6.5
+  google_fonts: ^2.1.0
+  image_gallery_saver: ^1.7.1
+  image_picker: ^0.8.4+1
+  sembast: any
+  sembast_web: any
+  url_launcher: 6.0.10
+
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
